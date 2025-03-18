@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/campaign-1-dragoon-heist-in-krshal/player-guide/map-of-krshal/"}
 ---
 
+![Krshal City Map Asset.png](/img/user/Campaign%201%20-%20Dragoon%20Heist%20in%20Krshal/Assets/Krshal%20City%20Map%20Asset.png)
 
 > [!NOTE]- Quick Calculator  
 > Map Height in Pixels: `INPUT[number:map_height_y]`  

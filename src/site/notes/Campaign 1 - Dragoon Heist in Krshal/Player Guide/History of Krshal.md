@@ -3,7 +3,7 @@
 ---
 
 [[Campaign 1 - Dragoon Heist in Krshal/Player Guide/Session 1 Recap & Levelling Up Info\|Session 1 Recap & Levelling Up Info]]
-
+[[Campaign 1 - Dragoon Heist in Krshal/Player Guide/Session 2 Recap & Info\|Session 2 Recap & Info]]
 [[Campaign 1 - Dragoon Heist in Krshal/Player Guide/Map of Krshal\|Map of Krshal]]
 
 Krshal is a port city on the coast of the Krpathian continent. A sprawling encampment, originally settled in mythology by twin brothers Krsque and Shalvk, along the estuary at the mouth of the Yrann river, their modest township eventually blossomed into a thriving port over many centuries. Through their good management of the local flora and fauna, the Krshalians grew their industries exponentially in this period, not only becoming the biggest exporters of Salted Blobfish but the most renowned tanners of all types of leather, including Grick and Auroch. This economic growth obviously brought wealth and affluence to the area, to its noble families in particular, but it also brought crime and poverty for its less fortunate citizens. As a result, Krshal is today not only a hive city of pirates, thugs, thieves and ne’er-do-wells who plague the law abiding yeomanry and peasants alike, but a den of ravenous plutocrats all fixated on the ‘grand game’ of power and wealth playing out within the city walls. Naturally, therefore, the city has become a playground for both those looking to make their name and those already born with one.

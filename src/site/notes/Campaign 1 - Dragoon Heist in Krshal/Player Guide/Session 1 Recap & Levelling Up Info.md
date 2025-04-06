@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/campaign-1-dragoon-heist-in-krshal/player-guide/session-1-recap-and-levelling-up-info/"}
 ---
 
-Your party arrived in Krshal in search of Petulia Rainwater, a contact given to you by Jacque.
+Your party arrived in Krshal in search of Petulia Rainwater, a contact given to you by Jacque. 
 
-You arrived at the Yawning Portal but couldn’t find Petulia. You did, however, meet the tavernkeep, Durnan, a renowned adventurer of old, and you also met Yagra Stonefist, a half-orc who seemed friendly.
+You arrived at the Yawning Portal but couldn’t find Petulia and you assumed she must have been waylaid. Maybe she will track you down at a later date! You did, however, meet the tavernkeep, Durnan, a renowned adventurer of old, and you also met Yagra Stonefist, a half-orc who seemed friendly.
 
-After dispatching a Troll, you met Volothamp Geddarm, a local man about town. He asked if you’d help find his missing friend Floon Blaagmar for a reward.
+After dispatching a Troll, you met Volothamp Geddarm, a local celebrity about town. He asked if you’d help find his missing friend Floon Blaagmar for a reward.
 
 Investigating the trail, you came across the City Watch and learnt more about the gang warfare plaguing the city. So far, you’ve met members of the Xanatar gang and the Zhentarim gang, who are sometimes known as the Doom Raiders.
 

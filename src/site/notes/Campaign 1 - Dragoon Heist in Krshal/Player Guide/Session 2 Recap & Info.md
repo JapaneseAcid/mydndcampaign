@@ -6,9 +6,9 @@ Following on from the first session, Volo took the party on a tour of Krshal’s
 
 Entering Troll Skull Alley, Volo noted the local businesses and the bustling street full of life. The Manor itself was in a ruinous state though and appeared visibly rough around the edges; it’s in need of some hefty repairs!
 
-Upon entering the house, the party discovered the ground floor had been turned into some kind of tavern long ago and, although in a terrible state of repair, appeared to have very good bones indeed. The bar was well built, if a bit shabby, and the door was clearly built by a master craftsman.
+Upon entering the house, the party discovered the ground floor had been turned into some kind of tavern long ago and, although in a terrible state of repair, appeared to have very good bones indeed. The bar was well built, if a bit shabby, and the door was clearly built by a master craftsman. Petulia found a 21 year old bottle of Dragon’s Breath amongst the bottles on the bar shelves!
 
-Whilst exploring the ground floor, the party saw the ghost of a half-elf barman and a small boy in the kitchen. They also managed to clear out the basement of swarms of rats and spiders; although they took some hefty damage in the process!
+Whilst exploring the ground floor, the party saw the ghost of a half-elf barman and a small boy in the kitchen. They also managed to clear out the basement of swarms of rats and spiders; although they took some hefty damage in the process! Here, Petulia found another bottle; this time an elvish wine called Elverquisst, also worth a pretty penny!
 
 Gaining entry to the second floor took some force from Pussuid’s hefty bosom, but the group managed to gain entry through the locked door without alerting anyone to their presence. 
 

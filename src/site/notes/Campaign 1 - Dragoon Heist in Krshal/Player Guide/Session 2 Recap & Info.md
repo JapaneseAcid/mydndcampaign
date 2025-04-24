@@ -8,7 +8,7 @@ Entering Troll Skull Alley, Volo noted the local businesses and the bustling str
 
 Upon entering the house, the party discovered the ground floor had been turned into some kind of tavern long ago and, although in a terrible state of repair, appeared to have very good bones indeed. The bar was well built, if a bit shabby, and the door was clearly built by a master craftsman. Petulia found a 21 year old bottle of Dragon’s Breath amongst the bottles on the bar shelves distilled in her home region of Khillsfaer (pronounced Hills-Far).
 
-Whilst exploring the ground floor, the party saw the ghost of a half-elf barman and a small boy in the kitchen. They also managed to clear out the basement of swarms of rats and spiders; although they took some hefty damage in the process! Here, Petulia found another bottle; this time an elvish wine called Elverquisst, also worth a pretty penny!
+Whilst exploring the ground floor, the party saw the ghost of a half-elf barman and a small boy in the kitchen. They also managed to clear out the basement of swarms of rats and spiders; although they took some hefty damage in the process! Here, Petulia found another bottle; this time an elvish wine called Elverquisst, also worth a pretty penny! In this part of the basement, the party found an alcove decorated with a bas-relief of a snarling, three-eyed dog. It seemed to have been vandalised by deep gouges, zig-zagging lines, and overlapping circles.
 
 Gaining entry to the second floor took some force from Pussuid’s hefty bosom, but the group managed to gain entry through the locked door without alerting anyone to their presence. 
 

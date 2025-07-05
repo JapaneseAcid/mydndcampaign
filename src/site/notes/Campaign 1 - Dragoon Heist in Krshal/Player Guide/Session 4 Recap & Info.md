@@ -25,3 +25,5 @@ Looting the rest of the Hag's lair revealed, before returning to their home in t
  - Rope of Climbing
  - Eversmoking Bottle
  - All or Nothing Coin - 10 uses
+
+Upon their return, the party found a note shoved under their front door which said, "Please come to the Yawning Portal, friends, there's someone I know that you should meet posthaste. Volo."

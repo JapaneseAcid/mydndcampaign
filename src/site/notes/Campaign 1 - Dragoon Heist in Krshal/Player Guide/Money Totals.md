@@ -111,9 +111,11 @@ Ground Blobfish Flakes - USED
 | Petulia   |                   |           |           |           |                   |
 # Session 8 Expenditure:
 
+ - Staff (5gp) Pussuid
+
 | CHARACTER | Starting Money    | GP Spent  | SP Spent  | CP Spent  | Ending Money |
 | --------- | ----------------- | --------- | --------- | --------- | ------------ |
-| Pussuid   | 121gp, 89sp, 83cp |           |           |           |              |
+| Pussuid   | 121gp, 89sp, 83cp | 5gp       |           |           |              |
 | Garret    | 0gp, 0sp, 0cp     |           |           |           |              |
 | Gloom     | 0gp, 47sp, 5cp    |           |           |           |              |
 | Aendwyn   | 125gp, 27sp, 61cp |           |           |           |              |
@@ -123,6 +125,6 @@ Ground Blobfish Flakes - USED
 | Pussuid   |                   |           |           |           |              |
 | Garret    |                   |           |           |           |              |
 | Gloom     |                   |           |           |           |              |
-| Aendwyn   |                   |           |           |           |              |
+| Aendwyn   |                   | 1100gp    |           |           |              |
 | Kween     |                   |           |           |           |              |
 | Petulia   |                   |           |           |           |              |
